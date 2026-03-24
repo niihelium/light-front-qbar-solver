@@ -44,3 +44,12 @@ uv run python main.py
 pip install -r requirements.txt
 python main.py
 ```
+
+## ⚖️ Funding & Intellectual Property
+
+This project was developed during a collaborative research period (2018–2019) between the **Saint Petersburg State University** and the **Institute of High Energy Physics (IHEP) of the Chinese Academy of Sciences**, supported by **CAS Grant #Y8299220K5**.
+
+**Statement on Ownership:**
+- **Code Autonomy:** The implementation provided in this repository was authored solely by Nikita Unkovsky. 
+- **Publication Status:** This specific codebase has not been utilized in any official joint publications and remains the independent property of the author.
+- **Academic Purpose:** The code is released under the MIT License for educational and research transparency purposes.
